@@ -1,5 +1,8 @@
+package com.example.demo.entities;
+
 import com.example.demo.entities.CartItem;
 import com.example.demo.entities.Customer;
+import com.example.demo.entities.StatusType;
 import jakarta.persistence.*;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
